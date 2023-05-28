@@ -1,0 +1,34 @@
+.card{
+    padding: 20px 100px;
+}
+
+.m-image{
+    color: #fff;
+    background-color: antiquewhite;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    text-align: left;
+}
+.m-image .m-image-header img{
+    width: 1280px;
+}
+
+.title-image-header{
+    position: absolute;
+    left: 20px;
+}
+
+.image-header{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 1080px
+}
+
+.image-body{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
